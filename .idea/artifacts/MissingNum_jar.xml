@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MissingNum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MissingNum_jar</output-path>
+    <root id="archive" name="MissingNum.jar">
+      <element id="module-output" name="MissingNum" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-csv-1.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
